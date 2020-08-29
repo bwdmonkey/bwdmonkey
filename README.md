@@ -1,4 +1,4 @@
-### :monkey_face:  &nbsp;Heya I am Tom Lee 😄
+### :monkey_face:  &nbsp;Heya I am Tom 😄
 
 <!--
 **bwdmonkey/bwdmonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
