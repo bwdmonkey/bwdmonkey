@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bwdmonkey&show_icons=true&theme=radical&hide=contribs&show_icons=true&include_all_commits=true" alt="bwdmonkey github stats" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=bwdmonkey&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=bwdmonkey&show_icons=true&theme=radical&hide=contribs&show_icons=true&include_all_commits=true" alt="bwdmonkey github stats" />
