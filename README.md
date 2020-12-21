@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Here are some things about me:
+- 🔭 I’m currently working as an assistant manager in my mom's seniorcare business for fun.
+- 🌱 I’m currently learning software development, economics, business, and philosophy.
+- 💬 Ask me about anything!
+- 📫 The best way to reach me is through email at `tom AT bwdmonkey.dev`
+- ⚡ Fun fact: My username comes from my childhood nickname. My Korean name (Lee, Seung Won – 이승원) sounds when read backward sounds quite a bit like monkey in Korean (Won Sung Lee).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bwdmonkey&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <img src="https://github-readme-stats.vercel.app/api?username=bwdmonkey&show_icons=true&theme=radical&hide=contribs&show_icons=true&include_all_commits=true" alt="bwdmonkey github stats" />
