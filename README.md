@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Here are some things about me:
-- 🔭 I’m currently working as an assistant manager in my mom's seniorcare business for fun.
+- 🔭 I’m currently working as an assistant manager in my mom's seniorcare business for a bit of fun.
 - 🌱 I’m currently learning software development, economics, business, and philosophy.
 - 💬 Ask me about anything!
 - 📫 The best way to reach me is through email at `tom AT bwdmonkey.dev`
