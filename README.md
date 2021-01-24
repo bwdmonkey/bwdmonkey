@@ -1,5 +1,4 @@
-### :monkey_face:  &nbsp;Heya I am Tom 😄
-
+### :monkey_face:  &nbsp;Heya I am Tom 😄 
 <!--
 **bwdmonkey/bwdmonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### bwdmonkey view counter
+<img src="https://profile-counter.glitch.me/bwdmonkey/count.svg" alt="bwdmonkey view count">
+
 Here are some things about me:
 - 🔭 &nbsp;I’m currently working as an assistant manager in my mom's seniorcare business for a bit of fun.
 - 🌱 &nbsp;I’m currently/always learning software development, economics, business, and philosophy.
