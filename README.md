@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Here are some things about me:
 - 🔭 I’m currently working as an assistant manager in my mom's seniorcare business for a bit of fun.
 - 🌱 I’m currently/always learning software development, economics, business, and philosophy.
+- 😄 Learn a bit more about what I'm thinking through reading some pieces at [\[bwdmonkey/writings\]](https://github.com/bwdmonkey/writings)
 - 😱 My greatest fear is becoming unable to learn.
 - 👀 Ask me about my new set of eyes!
 - 📫 The best way to reach me is through email at `tom AT bwdmonkey.dev`
