@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### bwdmonkey view counter
+
 <img src="https://profile-counter.glitch.me/bwdmonkey/count.svg" alt="bwdmonkey view count">
 
 Here are some things about me:
@@ -24,6 +25,3 @@ Here are some things about me:
 - 👀 &nbsp;Ask me about my new set of eyes!
 - 📫 &nbsp;The best way to reach me is through email at `tom AT bwdmonkey.dev`
 - ⚡ &nbsp;Fun fact: My username comes from my childhood nickname. My Korean name (Lee, Seung Won – 이승원) sounds when read backward sounds quite a bit like monkey in Korean (Won Sung Lee, 원숭이).
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bwdmonkey&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://github-readme-stats.vercel.app/api?username=bwdmonkey&show_icons=true&theme=radical&hide=contribs&show_icons=true&include_all_commits=true" alt="bwdmonkey github stats" />
