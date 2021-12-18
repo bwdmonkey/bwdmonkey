@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://profile-counter.glitch.me/bwdmonkey/count.svg" alt="bwdmonkey view count">-->
 Here are some things about me:
-- 🔭 &nbsp;I’m currently working as an assistant manager in my mom's seniorcare business for a bit of fun.
+- 🔭 &nbsp;I’m currently working as Software Engineer at [@microsoft](https://github.com/microsoft)
 - 🌱 &nbsp;I’m currently/always learning software development, economics, business, and philosophy.
 - 📔 &nbsp;Learn a bit more about what I'm thinking through reading some pieces at __[bwdmonkey.dev/writings](https://bwdmonkey.dev/writings/)__
 - 😱 &nbsp;My greatest fear is becoming unable to learn.
